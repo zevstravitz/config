@@ -1,0 +1,14 @@
+{
+  "activeWorkspace": "Rutter",
+  "workspaces": {
+    "Rutter": {
+      "apiKey": "lin_api_EKTb2B8evKpLL9DfpSZugPyG4VaHKfoxtwlwkIhB",
+      "defaultTeam": "RUT",
+      "user": {
+        "id": "1189c1f0-c386-4d56-a227-0fa90b325df5",
+        "name": "Zev Stravitz",
+        "email": "zev@rutterapi.com"
+      }
+    }
+  }
+}

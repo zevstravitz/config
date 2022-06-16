@@ -1,0 +1,4 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR __fish_initialized:0
+SETUVAR fish_user_paths:/Users/zevstravitz/\x2efig/bin\x1e/Users/zevstravitz/\x2elocal/bin\x1e/opt/homebrew/opt/fzf/bin
